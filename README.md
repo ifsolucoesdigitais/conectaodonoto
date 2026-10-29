@@ -17,3 +17,4 @@ Decisões: foco em donos de consultório, 1ª edição em março ou abril de 202
 
 - [Conceito preliminar e estrutura de trilhas](planejamento/01_conceito_e_trilhas.md)
 - [Validação: questionário, entrevistas e ecossistema](planejamento/02_validacao_questionario_entrevistas.md)
+- [Escopo de temas e narrativa: Anatomia do Consultório](planejamento/03_escopo_e_narrativa.md)

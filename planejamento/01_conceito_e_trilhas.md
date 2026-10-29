@@ -1,6 +1,7 @@
 # ConectaOdonto | Conceito preliminar e estrutura de trilhas (versão 0.1)
 
 **Status:** hipótese de trabalho, para ser testada na validação com o mercado ([02_validacao_questionario_entrevistas.md](02_validacao_questionario_entrevistas.md)).
+**Atualização:** a estrutura de seis blocos e a grade deste documento foram substituídas pela narrativa "Anatomia do Consultório", em [03_escopo_e_narrativa.md](03_escopo_e_narrativa.md). Posicionamento, data, local, modelo de negócio e cronograma continuam válidos.
 **Base:** [relatório de cenário](../pesquisa/00_cenario_oportunidades_demandas.md) da fase 1.
 
 ## Decisões já tomadas
